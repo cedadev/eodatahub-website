@@ -1,2 +1,2 @@
 # eodatahub-website
-Website for EODATAHUB
+Website for EO DATAHUB
